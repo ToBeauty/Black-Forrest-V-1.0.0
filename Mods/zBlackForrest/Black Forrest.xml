@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-	<ServerGroup Name="Black-Forrest-1.0.0" Logo="https://imgur.com/B1DoAIH" Description="Your end is near.">
-		<Server Name="Black-Forrest-1.0.0" Logo="https://imgur.com/B1DoAIH">
+	<ServerGroup Name="Black Forrest" Logo="https://imgur.com/3cc5eDk" Description="Your end is near.">
+		<Server Name="Black Forrest" Logo="https://imgur.com/3cc5eDk">
 			<Description>
+			
+			-einmalige Pois / -custom/unique Pois
+			-grössere Wanderhorden /-bigger wandering hordes
+			-verschiedene Musikradios /-various music radios
+			-elite vanilla gameplay /-elite vanilla gameplay
+			-wenn es eng wird,run Forrest,run /-when things get rough, run Forrest, run
 
 			</Description>
 			<Author>ToBeauty</Author>
 			<Version>.</Discord>
 			<Donate>.</Donate>
 			<Downloads>
-				<Download>https://github.com/ToBeauty/Black-Forrest-1.0.0</Download>
+				<Download>https://github.com/ToBeauty/Black Forrest</Download>
 			</Downloads>
 		</Server>
 	</ServerGroup>

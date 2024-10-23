@@ -6,4 +6,5 @@
 	<Author value="KhaineGB" />
 	<Version value="1.0.0.1" />
 	<Website value="" />
+	<SkipWithAntiCheat value="false" />
 </xml>
