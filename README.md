@@ -1,4 +1,4 @@
-Modlinks: https://github.com/ToBeauty/Black-Forrest-V-1.0.0
+Modlinks: https://github.com/ToBeauty/Black-Forrest
 Black-Forrest- V 1.0.0 Deutsch/English
 
 Our discord in german and english: https://discord.gg/qQ6zyKH2Ee
