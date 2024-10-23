@@ -12,10 +12,11 @@
 
 			</Description>
 			<Author>ToBeauty</Author>
-			<Version>.</Discord>
+			<Version>.</Version>
 			<Donate>.</Donate>
+      <Discord>https://discord.gg/qQ6zyKH2Ee</Discord>
 			<Downloads>
-				<Download>https://github.com/ToBeauty/Black Forrest</Download>
+				<Download>https://github.com/ToBeauty/Black-Forrest</Download>
 			</Downloads>
 		</Server>
 	</ServerGroup>
