@@ -1,0 +1,32 @@
+Key,Source,Context,Changes,English,Russian
+
+zombieDemolitionElite,entityclasses,Entity,,Elite-Demolition,ЭЛИТНЫЙ Разрушитель
+zombieFemaleFatElite,entityclasses,Entity,,Elite-Big Mama,ЭЛИТНЫЙ Толстуха
+zombieFatHawaiianElite,entityclasses,Entity,,Elite-Tourist,ЭЛИТНЫЙ Турист
+zombieCopElite,entityclasses,Entity,,Elite-Cop,ЭЛИТНЫЙ Полицейский
+
+zombieWightElite,entityclasses,Entity,,Elite-Wight,ЭЛИТНЫЙ Упырь
+zombieSoldierElite,entityclasses,Entity,,Elite-Soldier,ЭЛИТНЫЙ Солдат
+zombieSkaterElite,entityclasses,Entity,,Elite-Skater,ЭЛИТНЫЙ Скейтер
+zombieBikerElite,entityclasses,Entity,,Elite-Biker,ЭЛИТНЫЙ Байкер
+zombieHazmatElite,entityclasses,Entity,,Elite-Hazmat,ЭЛИТНЫЙ Ликвидатор
+zombieLumberjackElite,entityclasses,Entity,,Elite-Lumberjack,ЭЛИТНЫЙ Дровосек
+zombieMoeElite,entityclasses,Entity,,Elite-Moe,ЭЛИТНЫЙ Пухляш
+zombieUtilityWorkerElite,entityclasses,Entity,,Elite-Cop,ЭЛИТНЫЙ Строитель
+
+zombieMarleneElite,entityclasses,Entity,,Elite-Marlene,ЭЛИТНЫЙ Марлин
+zombieSpiderElite,entityclasses,Entity,,Elite-Spider,ЭЛИТНЫЙ Паук
+zombieBoeElite,entityclasses,Entity,,Elite-Boe,ЭЛИТНЫЙ Бо
+zombieDarleneElite,entityclasses,Entity,,Elite-Darlene,ЭЛИТНЫЙ Дарлин
+zombieJoeElite,entityclasses,Entity,,Elite-Joe,ЭЛИТНЫЙ Джо
+zombieSteveElite,entityclasses,Entity,,Elite-Steve,ЭЛИТНЫЙ Стив
+zombieYoElite,entityclasses,Entity,,Elite-Yo,ЭЛИТНЫЙ Йо
+zombieNurseElite,entityclasses,Entity,,Elite-Nurse,ЭЛИТНЫЙ Медсестра
+zombiePartyGirlElite,entityclasses,Entity,,Elite-Party Girl,ЭЛИТНЫЙ Стриптизерша
+zombieLabElite,entityclasses,Entity,,Elite-Lab Worker,ЭЛИТНЫЙ Лаборант
+zombieTomClarkElite,entityclasses,Entity,,Elite-Tom Clark,ЭЛИТНЫЙ Том Кларк
+zombieJanitorElite,entityclasses,Entity,,Elite-Janitor,ЭЛИТНЫЙ Механик
+zombieBurntElite,entityclasses,Entity,,Elite-Burnt,ЭЛИТНЫЙ Тлеющий зомби
+zombieBusinessManElite,entityclasses,Entity,,Elite-Business Man,ЭЛИТНЫЙ Бизнесмен
+zombieInmateElite,entityclasses,Entity,,Elite-Inmate,ЭЛИТНЫЙ Заключенный
+
